@@ -1,7 +1,12 @@
 {
   "name": "lollipopstudio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "bingling_sama",
+    "email": "bingling_sama@qq.com",
+    "url": "https://www.booling.cn"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
