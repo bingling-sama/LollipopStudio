@@ -9,7 +9,6 @@ module.exports = {
             .set('components', resolve('./src/components'))
             .set('views', resolve('src/views'))
             .set('assets', resolve('src/assets'))
-            .set('public', resolve('https://cdn.jsdelivr.net/gh/bingling-sama/lollipopstudio@latest/public/')),
         config.plugin('html').tap(args => {
             args[0].title = "Lollipop Studio";
             return args;
