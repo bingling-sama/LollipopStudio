@@ -1,2 +1,2 @@
-# LollipopStudio2
+# LollipopStudio
  Lollipop Studio Offical Website Remake.
